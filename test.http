@@ -1,0 +1,24 @@
+
+
+###
+POST http://localhost:8080/api/v1/users/login
+
+{
+    "email" : "ob@rizal.com",
+    "password" :"password"
+}
+
+
+
+
+
+###
+POST http://localhost:8080/api/v1/users/register
+
+{
+    "name" : "xRizal dadad",
+    "occupation" :"xjober",
+    "email" : "dadaxxxxx@rizal.com",
+    "password" :"password"
+  
+}
